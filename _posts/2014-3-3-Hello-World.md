@@ -5,4 +5,4 @@ published: true
 ---
 
 
-<iframe src="https://docs.google.com/document/d/1gvPBfcro4t1XvNUt7fnc0OlLATWikJLNYvaViClQQ_4/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/1gvPBfcro4t1XvNUt7fnc0OlLATWikJLNYvaViClQQ_4/pub?embedded=true"> width="200" height="200"</iframe>
